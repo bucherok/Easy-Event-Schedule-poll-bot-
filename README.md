@@ -1,11 +1,12 @@
 # Easy-Event-Schedule-poll-bot-
  Hi! It's my experementall thing, which should help people to arrage nearest event.
 
-/new - add new event 
-/eventStats - showing event info
+_/new_ - add new event 
+_/eventStats_ - showing event info
 
 
-npm install
-node index.js to start
+`npm install`
+`node index.js`
+ to start
 
-add token.js in root with module.exports = YOUR_TOKEN
+add **token.js** in root with `module.exports = YOUR_TOKEN`
